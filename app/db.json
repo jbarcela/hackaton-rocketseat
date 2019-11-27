@@ -1,0 +1,125 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Empresa A",
+      "description":
+        "Quer saber como é trabalhar naquele jogo que você adora jogar ? Assista este vídeo!",
+      "categories": [
+        {
+          "id": 2,
+          "title": "Jogos",
+          "color": "#F16529"
+        }
+      ],
+      "img":
+        "https://www.riotgames.com/darkroom/800/4055f068b0bc39bbe60d08491a39994b:0ff2ceae3e7bed5e6f2c9c5a1aded2c0/riot-fist-container-white-red.png",
+      "media": {
+        "type": "video",
+        "id": "zSo8Zbvh9mg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Empresa B",
+      "description":
+        "Conheça nossa empresa e como é trabalhar com robótica!",
+      "categories": [
+        {
+          "id": 3,
+          "title": "Robótica",
+          "color": "#8E2DE2"
+        }
+      ],
+      "img":
+        "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "media": {
+        "type": "image",
+        "uri": "https://images.pexels.com/photos/595804/pexels-photo-595804.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Empresa C",
+      "description":
+        "Pra você que curte a area da saúde, teremos um encontro muito bacana na próxima quinta-feira. Bora participar? Nos reuniremos para conversar sobre como a tecnologia é aplicada no diagnóstico de exames.",
+      "categories": [
+        {
+          "id": 4,
+          "title": "Saúde",
+          "color": "#f12711"
+        }
+      ],
+      "img":
+        "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 4,
+      "name": "Empresa D",
+      "description":
+        "Então voĉe curte assitir futebol ? Que tal ver como as coisas funcionam por trás das câmeras ? Venha ver como nós utilizamos a programação nas nossas partidas!",
+      "categories": [
+        {
+          "id": 1,
+          "title": "Esporte",
+          "color": "#00b09b"
+        },
+        {
+          "id": 6,
+          "title": "Tecnologia",
+          "color": "#345D7A"
+        }
+      ],
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqPCOWBWfMWED7STHRDj-xUF0bHpcUryDg0fNVbe5zrfuvRVZW",
+      "media": {
+        "type": "image",
+        "uri": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Esporte",
+      "selected": false,
+      "color": "#00b09b",
+      "tag": 1
+    },
+    {
+      "id": 2,
+      "title": "Jogos",
+      "selected": false,
+      "color": "#F16529",
+      "tag": 2
+    },
+    {
+      "id": 3,
+      "title": "Robótica",
+      "selected": false,
+      "color": "#8E2DE2",
+      "tag": 1
+    },
+    {
+      "id": 4,
+      "title": "Saúde",
+      "selected": false,
+      "color": "#f12711",
+      "tag": 2
+    },
+    {
+      "id": 5,
+      "title": "Desafios",
+      "selected": false,
+      "color": "#AC4F88",
+      "tag": 1
+    },
+    {
+      "id": 6,
+      "title": "Tecnologia",
+      "selected": false,
+      "color": "#345D7A",
+      "tag": 2
+    }
+  ]
+}
