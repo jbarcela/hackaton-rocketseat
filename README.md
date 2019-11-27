@@ -9,4 +9,6 @@ A divulgação será através de anúncios nas rede sociais para jovens de 14 a 
 ### App
 ![](app/app.gif)
 
+### Landing 
+http://betech.provisorio.ws/
 
